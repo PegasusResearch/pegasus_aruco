@@ -1,6 +1,6 @@
 /**:
   ros__parameters:
-    cam_base_topic: camera/image_raw
+    cam_base_topic: /drone1/color/image_raw
     output_frame: ''
 
     marker_dict: 4X4_50
